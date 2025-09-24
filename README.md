@@ -1,0 +1,13 @@
+# komari-webdav
+
+```
+# 面板变量
+ADMIN_USERNAME  #访问账号
+ADMIN_PASSWORD   #访问密码
+# 备份变量
+WEBDAV_URL  
+WEBDAV_BACKUP_PATH
+WEBDAV_USERNAME
+WEBDAV_PASSWORD
+SYNC_INTERVAL
+```
